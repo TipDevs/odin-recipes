@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(63, 58, 58);
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+}
+
+li{
+    text-align: left;
+    color: blanchedalmond;
+}
+p {
+    color: blanchedalmond;
+}
+
+img {
+    border-radius: 50%;
+}
+
+a {
+    color: azure;
+}
