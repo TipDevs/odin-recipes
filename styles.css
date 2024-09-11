@@ -1,6 +1,6 @@
 body {
     background-color: rgb(63, 58, 58);
-    color: white;
+    color: rgb(254, 212, 160);
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2rem;
@@ -19,5 +19,5 @@ img {
 }
 
 a {
-    color: azure;
+    color: blanchedalmond;
 }
